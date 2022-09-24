@@ -1,6 +1,6 @@
 title: [Jesskidding's awesome Knowledge Base of Information Technology Cybersecurity and Computer Science concepts.]
 author: [Jesskidding]
 description: [Some things I found useful for IT programming and hacking.] 
-remote_theme: pages-themes/hacker@v0.2.0
+theme: minimal-mistakes-jekyll
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
