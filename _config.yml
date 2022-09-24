@@ -1,4 +1,6 @@
-theme: minima
-title: Jesskidding's awesome Knowledge Base of IT, Security and Computer Science concepts.
-author: Jesskidding
-description: Some things I found useful for IT, programming and hacking. 
+title: [Jesskidding's awesome Knowledge Base of IT, Security and Computer Science concepts.]
+author: [Jesskidding]
+description: [Some things I found useful for IT, programming and hacking.] 
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
