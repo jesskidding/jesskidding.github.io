@@ -14,7 +14,7 @@ date: 2022-09-23
 
 [Wireshark](https://www.udemy.com/course/wireshark/)
 
-Its 20$ but industry recognized blue team tool that allows you to monitor traffic on a network. 
+Its 20$ but industry recognized tool that allows you to monitor network traffic and analyze packets. 
 
 [Cybrary Nmap](https://www.cybrary.it/course/nmap/)
 
