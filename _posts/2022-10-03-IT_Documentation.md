@@ -1,6 +1,6 @@
 ---
-Title: "IT Documentation"
-Date: 2022-10-03
+title: "IT Documentation"
+date: 2022-10-03
 ---
 
 # Infrastructure and Documentation-Business Documents Defined
