@@ -9,7 +9,7 @@
 - hands on cyber security training activities in every lesson with rankings and certificates. 
 
 ### [Metasploit](https://www.offensive-security.com/metasploit-unleashed/)
--vulnerability coding tool for web servers, OSes, network equipment and everything in between.
+- vulnerability coding tool for web servers, OSes, network equipment and everything in between.
 
 ### [TestOut IT courses](https://testoutce.com/products/library-suite-monthly)
 
@@ -17,7 +17,7 @@
 
 ### [Wireshark](https://www.udemy.com/course/wireshark/)
 
-Its 20$ but industry recognized tool that allows you to monitor network traffic and analyze packets. 
+- Its 20$ but industry recognized tool that allows you to monitor network traffic and analyze packets. 
 
 ### [Cybrary Nmap](https://www.cybrary.it/course/nmap/)
 
