@@ -61,4 +61,13 @@ Put these keys to use?
 
 - However, in order for a private SSH key to function, the proper permissions must first be set up. The private key should be kept secret and accessible only by its owner (600 or stricter). SSH -i keyNameGoesHere user@host is the standard Linux OpenSSH client's authentication method.
 
+### Assymetric and Quantum
+- We probably won't have sufficiently strong quantum computers until 2030 at the earliest, but when we do, cracking RSA or Elliptic Curve Cryptography will be a breeze. This is because the mathematical problems on which these algorithms depend can be effectively solved by quantum computers.
+
+- Codes: AES/DES and Quantum
+
+
+- While 256-bit AES is now unbreakable, 128-bit AES keys are expected to be cracked by quantum computers in the near future.
+In the same way as Double DES, Triple DES may be broken by quantum computers. 
+
 # Encryption-Crypto 101
