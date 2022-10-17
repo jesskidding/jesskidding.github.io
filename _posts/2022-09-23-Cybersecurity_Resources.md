@@ -2,25 +2,28 @@
 title: "Cybersecurity Resources"
 date: 2022-09-23
 ---
-[TryHackMe](https://tryhackme.com/) 
--hands on cyber security training activities in every lesson with rankings and certificates. 
 
-[Metasploit](https://www.offensive-security.com/metasploit-unleashed/)
--vulnerability coding tool for web servers, OSes, network equipment and everything in between.
+[TryHackMe](https://tryhackme.com/): 
+- hands on cyber security training activities in every lesson with rankings and certificates. 
 
-[TestOut IT courses](https://testoutce.com/products/library-suite-monthly)
+[Metasploit](https://www.offensive-security.com/metasploit-unleashed/):
+- vulnerability coding tool for web servers, OSes, network equipment and everything in between.
 
--You get one week free access to a wide range of IT courses. I recommend security and networking. 
+[TestOut IT courses](https://testoutce.com/products/library-suite-monthly):
 
-[Wireshark](https://www.udemy.com/course/wireshark/)
+- You get one week free access to a wide range of IT courses. I recommend security and networking. 
 
-Its 20$ but industry recognized tool that allows you to monitor network traffic and analyze packets. 
+[Wireshark](https://www.udemy.com/course/wireshark/):
 
-[Cybrary Nmap](https://www.cybrary.it/course/nmap/)
+- Its 20$ but industry recognized tool that allows you to monitor network traffic and analyze packets. 
 
--scan IP addresses and ports in a network and to detect installed applications. 
+[Cybrary Nmap](https://www.cybrary.it/course/nmap/):
 
-[Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html)
+- scan IP addresses and ports in a network and to detect installed applications. 
+
+[Splunk](https://www.splunk.com/en_us/training/free-courses/overview.html):
+
+- Splunk is the data platform that powers enterprise observability, unified security and limitless custom applications in hybrid environments.
 
 [Team Ciso](https://teamciso.com/)
 
