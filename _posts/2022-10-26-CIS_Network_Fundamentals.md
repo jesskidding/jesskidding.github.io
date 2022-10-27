@@ -3,7 +3,6 @@
 ### 2022-10-26
 
 ---
-![Security](https://www.imperva.com/learn/wp-content/uploads/sites/13/2020/02/OSI-7-layers.jpg "Security")
 
 We utilize the conventional **O**pen **S**ystems **I**nterconnection Model to explain computer networking concepts. Real-world networking uses the more compact TCP/IP paradigm, although the OSI model is simpler to grasp.
 
