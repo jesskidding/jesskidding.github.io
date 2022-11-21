@@ -14,7 +14,7 @@ An OSI model mnemonic I prefer: **P**lease **d**o **n**ot **t**ouch **S**teve's 
 
 Quick breakdown:
 
-### Layer 7—Use:
+### Layer 7—Application:
 
 * The OSI model's application layer gives computer programs networking possibilities. 
 * It mostly interfaces with programs to convey data. 
